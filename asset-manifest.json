@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49207e28.chunk.css",
+    "main.js": "/static/js/main.a9c01775.chunk.js",
+    "main.js.map": "/static/js/main.a9c01775.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4abb59eb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4abb59eb.js.map",
+    "static/js/2.f4fd7416.chunk.js": "/static/js/2.f4fd7416.chunk.js",
+    "static/js/2.f4fd7416.chunk.js.map": "/static/js/2.f4fd7416.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.49207e28.chunk.css.map": "/static/css/main.49207e28.chunk.css.map",
+    "static/js/2.f4fd7416.chunk.js.LICENSE.txt": "/static/js/2.f4fd7416.chunk.js.LICENSE.txt",
+    "static/media/shampoo.0aaa0ad2.jpg": "/static/media/shampoo.0aaa0ad2.jpg",
+    "static/media/shopping-cart.2ac2a2f7.svg": "/static/media/shopping-cart.2ac2a2f7.svg",
+    "static/media/soap.e9d18920.png": "/static/media/soap.e9d18920.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4abb59eb.js",
+    "static/js/2.f4fd7416.chunk.js",
+    "static/css/main.49207e28.chunk.css",
+    "static/js/main.a9c01775.chunk.js"
+  ]
+}
